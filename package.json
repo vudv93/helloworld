@@ -1,0 +1,19 @@
+{
+  "name": "et-helloworld",
+  "version": "1.0.0",
+  "description": "This is a sample package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vudv93/helloworld.git"
+  },
+  "author": "Vu Do",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vudv93/helloworld/issues"
+  },
+  "homepage": "https://github.com/vudv93/helloworld#readme"
+}
