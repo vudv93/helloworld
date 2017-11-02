@@ -1,5 +1,5 @@
 {
-  "name": "et-helloworld",
+  "name": "helloworld",
   "version": "1.0.0",
   "description": "This is a sample package",
   "main": "index.js",
